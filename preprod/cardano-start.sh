@@ -30,4 +30,4 @@ else
 fi
 
 # start the services
-NETWORK=${NETWORK} NODE_DB=${NODE_DB} docker-compose -p cardano -f ./docker-compose-cardano.yml --env-file .env-cardano up -d
+NETWORK=${NETWORK} NODE_DB=${NODE_DB} docker compose -p cardano -f ./docker-compose-cardano.yml --env-file .env-cardano up -d
