@@ -7,3 +7,5 @@ Setup a local Atala Prism(Identus) stack using a development mode with an in-mem
 Setup an Atala Prism (Identus) stack using the Cardano blockchain as the Verifiabled Data Registry (VDR). 
 Run in development mode with no API keys enabled for learning purposes.
 
+Source from https://github.com/lley154/atala-prism-setup/tree/main
+
