@@ -1,5 +1,5 @@
 # Atala Prism local setup using AWS
-
+## Requirement
 Create an AWS EC2 Ubuntu 20.04 instance with 2 CPUs, 8 GB Mem, 30 GB Disk
 Log into aws instance
 ```
